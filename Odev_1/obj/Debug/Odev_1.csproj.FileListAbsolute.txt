@@ -1,0 +1,6 @@
+/Users/simgeyvs/Downloads/odev-1-simgey-master/Odev_1/obj/Debug/Odev_1.csprojAssemblyReference.cache
+/Users/simgeyvs/Downloads/odev-1-simgey-master/Odev_1/obj/Debug/Odev_1.csproj.CoreCompileInputs.cache
+/Users/simgeyvs/Downloads/odev-1-simgey-master/Odev_1/bin/Debug/Odev_1.exe
+/Users/simgeyvs/Downloads/odev-1-simgey-master/Odev_1/bin/Debug/Odev_1.pdb
+/Users/simgeyvs/Downloads/odev-1-simgey-master/Odev_1/obj/Debug/Odev_1.exe
+/Users/simgeyvs/Downloads/odev-1-simgey-master/Odev_1/obj/Debug/Odev_1.pdb
